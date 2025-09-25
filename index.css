@@ -1,0 +1,10 @@
+.contenedor-principal{
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+.cuadrado{
+    height: 150px;
+    width: 150px;
+    background-color: chocolate;
+}
